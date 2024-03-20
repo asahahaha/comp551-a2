@@ -2,8 +2,7 @@
 
 ## Overview
 
-This repository showcases our exploration and implementation of logistic regression and multi-class regression algorithms applied to text data, without direct reliance on Scikit-learn's built-in algorithms. Our work encompasses the preprocessing of datasets, feature selection through simple linear regression coefficients and mutual information scores, and the development of logistic and multi-class regression models from scratch. We validated our models using small perturbations and monitored cross-entropy to ensure robustness and accuracy. Our implementations were benchmarked against Scikit-learn's decision tree algorithm, demonstrating superior performance in terms of training speed and predictive accuracy.
-
+This repository showcases our exploration and implementation of logistic regression and multi-class regression algorithms applied to text data, without direct reliance on Scikit-learn's built-in algorithms. Our work encompasses the preprocessing of datasets, feature selection through simple linear regression coefficients and mutual information scores, and the development of logistic and multi-class regression models from scratch. We validated our models using small perturbations and monitored cross-entropy to ensure robustness and accuracy.
 ## Datasets
 
 ### IMDB Reviews
